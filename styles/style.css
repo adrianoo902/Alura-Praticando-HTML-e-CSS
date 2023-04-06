@@ -152,3 +152,12 @@ body {
     color: var(--cinza-secundario);
     font-size: 14px;
 }
+.rodape{
+    background-color: var(--cor-terciaria);
+    color:var(--cor-de-fundo);
+    padding: 1.5rem;
+    font-size: 1.5rem;
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    text-align: center;
+}

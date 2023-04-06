@@ -154,7 +154,7 @@ body {
     color: var(--cinza-secundario);
     font-size: 14px;
 }
-.rodape{
+.rodape-dev{
     background-color: var(--cor-terciaria);
     color:var(--cor-de-fundo);
     padding: 1.5rem;
